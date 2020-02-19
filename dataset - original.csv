@@ -1,0 +1,21 @@
+CEDULA;NOMBRE;EDAD;INGRESOS MES;EGRESOS MES;BARRIO;ESTRATO;ESTADO CIVIL;TIPO DE CONTRATO;VEH?CULO DE PREFERENCIA;MARCA DE PREFERENCIA;ESTADO VEH?CULO;SCORE;EMBARGOS;DISPUESTO A PAGAR CUOTA INICIAL
+1142585978;Andrea;20;1500000;300000;Ingenio;5;Soltero;Indefinido;Autom¢vil;Mazda;Usado;680;0;s¡
+1144580978;Juli n;25;1600000;600000;La Hacienda;4;Soltero;T‚rmino fijo;Autom¢vil;Chevrolet;Nuevo;720;0;no
+1144085978;Mar¡a;28;1300000;700000;Ciudad Jard¡n;6;Soltero;Servicios;Autom¢vil;Renault;Usado;750;0;no
+1142018578;Alberto;27;2100000;600000;La Selva;3;Casado;T‚rmino fijo;Moto;Honda;Nuevo;800;0;s¡
+1143585118;Juan;26;1200000;500000;La Flora;5;Soltero;Servicios;Autom¢vil;Renault;Usado;420;0;no
+1144585978;Dario;29;2000000;700000;Salomia;3;Casado;Indefinido;Camioneta;Mazda;Nuevo;450;0;s¡
+1142537972;Lina;26;2200000;2000000;Pance;6;Soltero;T‚rmino fijo;Autom¢vil;Nissan;Usado;850;0;no
+1142515973;Carlos;30;1800000;300000;Valle del Lili;5;Casado;Servicios;Camioneta;Mazda;Usado;680;0;s¡
+1142585975;Marcela;35;2000000;1500000;Bochalema;4;Soltero;T‚rmino fijo;Camioneta;Nissan;Nuevo;560;0;no
+1142587957;Felipe;35;1500000;300000;San Antonio;3;Casado;Servicios;Moto;AKT;Usado;800;2;no
+1142585999;;32;1800000;300000;Ingenio;5;Soltero;T‚rmino fijo;Moto;Renault;Nuevo;680;0;no
+1143809101;;36;7500000;3800000;La Hacienda;4;Casado;Indefinido;Moto;Kawasaki;Usado;800;0;s¡
+1143584970;;39;5500000;2000000;Ciudad Jard¡n;6;Casado;Indefinido;Autom¢vil;Mazda;Nuevo;560;0;no
+1143500978;;40;5300000;2500000;La Selva;3;Casado;Servicios;Camioneta;Renault;Nuevo;750;0;no
+1144585971;;41;3500000;3000000;Ingenio;5;Soltero;T‚rmino fijo;Camioneta;Nissan;Usado;750;1;s¡
+1143585900;;45;2500000;1800000;Salomia;3;Soltero;Indefinido;Camioneta;Hyundai;Nuevo;680;0;no
+1143185978;;42;2800000;1000000;Bochalema;4;Casado;Servicios;Moto;Yamaha;Nuevo;560;0;s¡
+1143785911;;37;7000000;4500000;Valle del Lili;5;Soltero;Indefinido;Moto;Honda;Nuevo;850;2;s¡
+1142585972;;45;5000000;3000000;Salomia;3;Casado;Servicios;Camioneta;Nissan;Usado;680;0;s¡
+1143985977;;21;3000000;1500000;San Antonio;3;Soltero;Indefinido;Moto;Chevrolet;Nuevo;560;0;s¡
